@@ -112,16 +112,16 @@ The case: highest conversion uplift of all three variants, statistically signifi
 
 ## Dashboard Preview
 
-**Executive Summary**
+###Executive Summary
 ![Executive Summary](screenshots/Executive_summary.png)
 
-**Variant Analysis**
+###Variant Analysis
 ![Variant Analysis](screenshots/Variant_analysis.png)
 
-**Revenue Impact**
+###Revenue Impact
 ![Revenue Impact](screenshots/Revenue_impact.png)
 
-**Device Breakdown**
+###Device Breakdown
 ![Device Breakdown](screenshots/Device_breakdown.png)
 
 ---
